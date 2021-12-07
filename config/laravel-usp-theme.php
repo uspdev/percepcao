@@ -71,13 +71,13 @@ $right_menu = [
         // menu utilizado para views da biblioteca senhaunica-socialite.
         'key' => 'senhaunica-socialite',
     ],
-    [
-        'text' => '<i class="fas fa-cog"></i>',
-        'title' => 'Configurações',
-        'target' => '_blank',
-        'url' => config('app.url') . '/item1',
-        'align' => 'right',
-    ],
+    // [
+    //     'text' => '<i class="fas fa-cog"></i>',
+    //     'title' => 'Configurações',
+    //     'target' => '_blank',
+    //     'url' => config('app.url') . '/item1',
+    //     'align' => 'right',
+    // ],
 ];
 
 
